@@ -10,6 +10,8 @@
 
 Este proyecto fue desarrollado como parte del desafío ONE del programa de aprendizaje de Oracle + Alura Latam, centrado en la lógica de programación. El encriptador de texto es una aplicación web que utiliza JavaScript para cifrar y descifrar mensajes de texto ingresados por el usuario. Con una interfaz simple y funcional, emplea técnicas de cifrado para transformar los mensajes de manera segura y efectiva.
 
+https://github.com/Omar-Tello/Encriptador-de-texto/assets/88994574/da9531d2-91ee-4e76-9c38-e8d28a4265c8 
+
 ## Tecnologías Utilizadas
 
 - **JavaScript:** Para la lógica de cifrado y descifrado.
