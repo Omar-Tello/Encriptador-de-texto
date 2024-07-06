@@ -2,7 +2,7 @@
 - 📡 Sígueme en Instagram: [0mar.guerra](https://www.instagram.com/0mar.guerra/)
 - 📡 Sígueme en GitHub: [Omar-Tello](https://github.com/Omar-Tello)
 - 📡 Sígueme en Facebook: [omartello.developer](https://www.facebook.com/omartello.developer/)
-- 💼 Sígueme a la Empresa: [CNI Data](https://www.instagram.com/cni.data/)
+- 💼 Sígueme en mi Emprendimiento: [CNI Data](https://www.instagram.com/cni.data/)
 
 📂 Recuerda seguir buenas prácticas como comentar el código para facilitar su mantenimiento y comprensión.
 
