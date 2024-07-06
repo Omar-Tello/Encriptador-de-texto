@@ -1,0 +1,63 @@
+/*
+🔭 Hi, I'm Omar Tello! 
+📡 Sigueme en instagram: https://www.instagram.com/0mar.guerra/ 
+📡 Sigueme en github: https://github.com/Omar-Tello 
+📡 Sigueme en facebook: https://www.facebook.com/omartello.developer/ 
+💼 Sigueme a la Empresa: https://www.instagram.com/cni.data/ 
+*/
+
+/*
+📂 Este es un challenge de un encriptador de texto.
+♨️ Recuerda seguir buenas prácticas como comentar el código para facilitar su mantenimiento y comprensión.
+*/
+
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #303030;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* Elimina márgenes y padding, establece ancho y alto al 100%, 
+       aplica un fondo gris oscuro, y utiliza Flexbox para centrar el contenido */
+}
+
+.full-page-image {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    /* Establece el ancho y alto al 100% del viewport, usa Flexbox para centrar el contenido, 
+       y oculta cualquier contenido desbordante */
+}
+
+.full-page-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: opacity 3s ease;
+    /* Ajusta el tamaño de la imagen al 100% del contenedor, mantiene la proporción de la imagen, 
+       y establece una transición suave para la opacidad */
+}
+
+.hidden {
+    opacity: 0;
+    /* Oculta el elemento estableciendo su opacidad a 0 */
+}
+
+/*
+🔭 Hi, I'm Omar Tello! 
+📡 Sigueme en instagram: https://www.instagram.com/0mar.guerra/ 
+📡 Sigueme en github: https://github.com/Omar-Tello 
+📡 Sigueme en facebook: https://www.facebook.com/omartello.developer/ 
+💼 Sigueme a la Empresa: https://www.instagram.com/cni.data/ 
+*/
+
+/*
+📂 Este es un challenge de un encriptador de texto.
+♨️ Recuerda seguir buenas prácticas como comentar el código para facilitar su mantenimiento y comprensión.
+*/

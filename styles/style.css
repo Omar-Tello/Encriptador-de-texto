@@ -1,0 +1,158 @@
+/*
+🔭 Hi, I'm Omar Tello! 
+📡 Sigueme en instagram: https://www.instagram.com/0mar.guerra/ 
+📡 Sigueme en github: https://github.com/Omar-Tello 
+📡 Sigueme en facebook: https://www.facebook.com/omartello.developer/ 
+💼 Sigueme a la Empresa: https://www.instagram.com/cni.data/ 
+*/
+
+/*
+📂 Este es un challenge de un encriptador de texto.
+♨️ Recuerda seguir buenas prácticas como comentar el código para facilitar su mantenimiento y comprensión.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+/* Importa las fuentes "Krona One" y "Montserrat" desde Google Fonts */
+
+body {
+    background: linear-gradient(to bottom right, #2CCCC4, #995757);
+    /* Aplica un fondo con un degradado de color de la esquina superior izquierda a la esquina inferior derecha */
+    font-family: "Krona One", sans-serif;
+    /* Establece la fuente del cuerpo del documento */
+}
+
+h1 {
+    color: #7D6CAD;
+    /* Establece el color del texto para los encabezados <h1> */
+}
+
+h2 {
+    color: white;
+    /* Establece el color del texto para los encabezados <h2> */
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    /* Configura la altura, márgenes, y el uso de Flexbox para centrar el contenido, además de establecer la fuente */
+}
+
+.centered-box {
+    border: 0px solid #000;
+    padding: 100px;
+    text-align: center;
+    background-color: ye;
+    border-radius: 36px;
+    /* Estilos para una caja centrada con borde, padding, alineación de texto, color de fondo, y bordes redondeados */
+}
+
+.centered-box img {
+    max-width: 60%;
+    height: auto;
+    /* Ajusta el tamaño máximo de la imagen al 60% del contenedor, manteniendo la proporción */
+}
+
+.arriba {
+    border: 0px solid #000;
+    padding: 10px;
+    text-align: center;
+    background-color: #FCFCFF;
+    border-radius: 36px;
+    box-shadow: 0 0 20px rgba(252, 252, 255, 0.5);
+    /* Estilos para una sección con borde, padding, alineación de texto, color de fondo, bordes redondeados y sombra */
+}
+
+.abajo {
+    border: 0px solid #000;
+    padding: 0px;
+    text-align: center;
+    background-color: #AFD2D6;
+    border-radius: 36px;
+    /* Estilos para otra sección con borde, padding, alineación de texto, color de fondo, y bordes redondeados */
+}
+
+.iconos {
+    border: 0px solid #000;
+    padding: 20px;
+    text-align: center;
+    background-color: #AFD2D6;
+    border-radius: 36px;
+    /* Estilos para una sección de iconos con borde, padding, alineación de texto, color de fondo, y bordes redondeados */
+}
+
+.custom-button {
+    padding: 10px 20px;
+    border: 1;
+    border-radius: 35px;
+    background-color: rgba(255, 255, 255, 0.795);
+    color: black;
+    font-size: 24px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(20, 250, 238, 0.5);
+    /* Estilos para un botón personalizado con padding, borde, bordes redondeados, color de fondo, color de texto, tamaño de fuente, cursor pointer y sombra */
+}
+
+.custom-button:hover {
+    background-color: #72EFE9;
+    /* Cambia el color de fondo cuando el botón es seleccionado */
+}
+
+.image-with-shadow-facebook {
+    max-width: 60%;
+    height: auto;
+    border-radius: 50%;
+    /* Hace que la imagen sea circular */
+    box-shadow: 0 0 20px rgba(0, 0, 255, 0.808);
+    /* Sombra azul con un desenfoque de 20px */
+}
+
+.image-with-shadow-github {
+    max-width: 60%;
+    height: auto;
+    border-radius: 50%;
+    /* Hace que la imagen sea circular */
+    box-shadow: 0 0 20px rgb(214, 10, 10);
+    /* Sombra roja con un desenfoque de 20px */
+}
+
+.image-with-shadow-instagram {
+    max-width: 60%;
+    height: auto;
+    border-radius: 50%;
+    /* Hace que la imagen sea circular */
+    box-shadow: 0 0 20px #00f76ffb;
+    /* Sombra verde con un desenfoque de 20px */
+}
+
+.custom-button2 {
+    padding: 10px 10px;
+    border: none;
+    border-radius: 90px;
+    background-color: rgba(175, 5, 5, 0.014);
+    font-size: 24px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(44, 204, 196, 0.5);
+    /* Estilos para otro botón personalizado con padding, sin borde, bordes redondeados, color de fondo, tamaño de fuente, cursor pointer y sombra */
+}
+
+.custom-button2:hover {
+    background-color: #00c1fc;
+    /* Cambia el color de fondo cuando el botón es seleccionado */
+}
+
+/*
+🔭 Hi, I'm Omar Tello! 
+📡 Sigueme en instagram: https://www.instagram.com/0mar.guerra/ 
+📡 Sigueme en github: https://github.com/Omar-Tello 
+📡 Sigueme en facebook: https://www.facebook.com/omartello.developer/ 
+💼 Sigueme a la Empresa: https://www.instagram.com/cni.data/ 
+*/
+
+/*
+📂 Este es un challenge de un encriptador de texto.
+♨️ Recuerda seguir buenas prácticas como comentar el código para facilitar su mantenimiento y comprensión.
+*/

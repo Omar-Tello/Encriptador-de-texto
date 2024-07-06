@@ -1,0 +1,160 @@
+<!-- 
+🔭 Hi, I'm Omar Tello! 
+📡 Sigueme en instagram: https://www.instagram.com/0mar.guerra/ 
+📡 Sigueme en github: https://github.com/Omar-Tello 
+📡 Sigueme en facebook: https://www.facebook.com/omartello.developer/ 
+💼 Sigueme a la Empresa: https://www.instagram.com/cni.data/ 
+-->
+<!--
+📂 Este es un challenge de un encriptador de texto.
+♨️ Recuerda seguir buenas prácticas como comentar el código para facilitar su mantenimiento y comprensión.
+-->
+
+<!DOCTYPE html>
+<html lang="es">
+<!-- Declaración del tipo de documento HTML5 y el idioma de la página (español) -->
+
+<head>
+  <meta charset="UTF-8">
+  <!-- Especifica la codificación de caracteres utilizada (UTF-8) -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- Configuración para la compatibilidad con versiones antiguas de Internet Explorer -->
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Configuración de la ventana gráfica para la adaptabilidad en dispositivos móviles -->
+  <link rel="stylesheet" href="styles/style2.css" type="text/css">
+  <!-- Enlace a la hoja de estilos externa (style.css) -->
+  <title>{ / } Encriptador 👾 </title>
+  <!-- Título de la página que se muestra en la pestaña del navegador -->
+</head>
+
+<body class="dark">
+  <!-- Inicio del cuerpo del documento con la clase "dark" para aplicar estilos oscuros -->
+
+  <canvas id=canvas></canvas>
+  <!-- Elemento canvas para gráficos dinámicos con el identificador "canvas" -->
+  
+  <main class="hidden">
+    <!-- Elemento principal con la clase "hidden" para ocultarlo inicialmente mediante CSS -->
+    
+    <div class="main-left">
+      <!-- División para la parte izquierda del contenido principal -->
+      
+      <div class="logo">
+        <!-- División para el logo -->
+        
+        <a href="https://github.com/Omar-Tello" target="_blank">
+          <img src="assets/images/logo.png" alt="Github logo">
+        </a>
+        <!-- Enlace a GitHub que se abre en una nueva pestaña, con una imagen de logo -->
+      </div>
+      
+      <div class="input-container">
+        <!-- División para el contenedor de entrada de texto -->
+        
+        <label class="label">
+          <!-- Etiqueta para el interruptor de toggle -->
+          
+          <div class="toggle">
+            <input class="toggle-state" type="checkbox" name="check" value="check">
+            <!-- Entrada tipo checkbox para el toggle con la clase "toggle-state" -->
+            <div class="indicator"></div>
+            <!-- Indicador visual del toggle -->
+          </div>
+        </label>
+        
+        <textarea id="input" spellcheck="false" placeholder="➮ Ingrese el texto aquí ..." autofocus></textarea>
+        <!-- Área de texto para entrada de usuario sin corrección ortográfica y con un marcador de posición -->
+        
+        <div class="message" id="message">
+          <!-- División para el mensaje de advertencia con el identificador "message" -->
+          
+          <span>!</span>
+          <!-- Símbolo de exclamación -->
+          <p>Solo letras minúsculas y sin acentos</p>
+          <!-- Mensaje de advertencia -->
+        </div>
+        
+        <div class="buttons">
+          <!-- División para los botones de acción -->
+          
+          <button class="btn primary" id="btn-encrypt">🔒 Encriptar</button>
+          <!-- Botón para encriptar con la clase "primary" e identificador "btn-encrypt" -->
+          
+          <button class="btn secondary" id="btn-decrypt">🔓 Desencriptar</button>
+          <!-- Botón para desencriptar con la clase "secondary" e identificador "btn-decrypt" -->
+        </div>
+      </div>
+    </div>
+    
+    <div class="main-right">
+      <!-- División para la parte derecha del contenido principal -->
+      
+      <div class="screen-container hidden">
+        <!-- Contenedor para la pantalla de resultado con la clase "hidden" -->
+        
+        <div id="screen"></div>
+        <!-- División para mostrar el texto encriptado o desencriptado con el identificador "screen" -->
+        
+        <button id="copy" class="btn secondary copy">Copiar</button>
+        <!-- Botón para copiar el texto con la clase "secondary" y "copy" e identificador "copy" -->
+      </div>
+      
+      <div class="center">
+        <!-- División para centrar el contenido -->
+        
+        <div class="search-image">
+          <img src="assets/images/Candado.gif" alt="">
+        </div>
+        <!-- Imagen animada de candado -->
+        
+        <div class="empty-text">
+          <!-- División para el texto cuando no hay mensajes -->
+          
+          <h3>Ningún mensaje fue encontrado</h3>
+          <!-- Encabezado indicando que no se encontró ningún mensaje -->
+          
+          <p>Ingresa el texto que desees encriptar o desencriptar</p>
+          <!-- Instrucción para el usuario -->
+        </div>
+      </div>
+    </div>
+  </main>
+  
+  <footer class="hidden">
+    <!-- Pie de página con la clase "hidden" para ocultarlo inicialmente mediante CSS -->
+    
+    <div class="footer-container">
+      <!-- Contenedor del pie de página -->
+      
+      <div class="footer-center">
+        <!-- Centro del pie de página -->
+        
+        <p>© Omar Tello | 2024</p>
+        <!-- Firma de autor y año -->
+      </div>
+    </div>
+  </footer>
+  
+  <script src="scripts/Interface.js"></script>
+  <!-- Enlace al archivo JavaScript externo (Interface.js) -->
+  
+  <script src="scripts/Bundlers.js"></script>
+  <!-- Enlace al archivo JavaScript externo (Bundlers.js) -->
+</body>
+
+</html>
+<!-- Fin del documento HTML -->
+
+
+<!-- 
+🔭 Hi, I'm Omar Tello! 
+📡 Sigueme en instagram: https://www.instagram.com/0mar.guerra/ 
+📡 Sigueme en github: https://github.com/Omar-Tello 
+📡 Sigueme en facebook: https://www.facebook.com/omartello.developer/ 
+💼 Sigueme a la Empresa: https://www.instagram.com/cni.data/ 
+-->
+<!--
+📂 Este es un challenge de un encriptador de texto.
+♨️ Recuerda seguir buenas prácticas como comentar el código para facilitar su mantenimiento y comprensión.
+-->
