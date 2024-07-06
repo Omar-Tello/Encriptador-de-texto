@@ -36,8 +36,11 @@ Para el desarrollo, se utilizaron las siguientes extensiones de Visual Studio Co
 - **Error Lens:** Extensión que resalta los errores directamente en el código, facilitando la identificación y corrección de problemas.
 
 - **Image Preview:** Extensión que proporciona una vista previa de imágenes directamente en el editor, lo cual es útil para trabajar con recursos visuales como imágenes en proyectos web.
+- 
+## Material de Apoyo
 
 Para el diseño, utilizamos una plantilla como base, pero cada uno pudo modificarla a su manera para mostrar creatividad. Además, empleamos Figma para diseñar detalles específicos del proyecto.
 
 Este es el diseño en Figma que desarrollé, pero también puedes visualizar la plantilla original si deseas comparar: [Figma - Oracle + Alura / Challenge Encriptador](https://www.figma.com/design/VxbNz5mNxGl5kx2pe3oBdH/Oracle-%2B-Alura-%2F-Challenge-Encriptador---Desaf%C3%ADo-%2F-Omar-T.?node-id=0-1)
 
+Para la gestión del proyecto, utilizamos Trello y nos beneficiamos de una plantilla proporcionada que nos ayudó a organizar tareas, establecer cronogramas y mantener un seguimiento claro del progreso del desarrollo: [Trello - Project 1 Encriptador](https://trello.com/b/pmnCqrJv/project-1-encriptador)
