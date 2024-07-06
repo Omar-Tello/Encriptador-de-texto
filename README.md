@@ -12,6 +12,7 @@ Este proyecto fue desarrollado como parte del desafío ONE del programa de apren
 
 https://github.com/Omar-Tello/Encriptador-de-texto/assets/88994574/da9531d2-91ee-4e76-9c38-e8d28a4265c8 
 
+Ver pagina : https://omar-tello.github.io/Encriptador-de-texto/
 ## Tecnologías Utilizadas
 
 - **JavaScript:** Para la lógica de cifrado y descifrado.
