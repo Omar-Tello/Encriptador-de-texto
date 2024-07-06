@@ -27,7 +27,7 @@ Ver pagina : https://omar-tello.github.io/Encriptador-de-texto/
 
 Este proyecto no solo permite explorar conceptos clave de programación como funciones, arrays y operaciones lógicas, sino que también mejora las habilidades prácticas en el desarrollo web. Es un ejemplo de cómo combinar tecnologías front-end para crear aplicaciones interactivas y funcionales.
 
-## Extensiones para Visual Code que Ayudaron en su Desarrollo
+## Extensiones para Visual Studio Code que Ayudaron en su Desarrollo
 
 Para el desarrollo, se utilizaron las siguientes extensiones de Visual Studio Code:
 
